@@ -1,0 +1,4 @@
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindEntities\bin\Debug\LINQNorthwindEntities.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindEntities\bin\Debug\LINQNorthwindEntities.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindEntities\obj\Debug\LINQNorthwindEntities.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindEntities\obj\Debug\LINQNorthwindEntities.pdb

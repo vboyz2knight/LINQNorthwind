@@ -1,0 +1,4 @@
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindEntities\bin\Debug\RealNorthwindEntities.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindEntities\bin\Debug\RealNorthwindEntities.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindEntities\obj\Debug\RealNorthwindEntities.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindEntities\obj\Debug\RealNorthwindEntities.pdb

@@ -1,0 +1,12 @@
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.dll.config
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindService.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindEntities.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindLogic.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindDAL.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindEntities.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindLogic.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\bin\Debug\LINQNorthwindDAL.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.csprojResolveAssemblyReference.cache
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindService\obj\Debug\LINQNorthwindService.pdb

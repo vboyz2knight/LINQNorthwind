@@ -1,0 +1,12 @@
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindService.dll.config
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindService.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindService.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\obj\Debug\RealNorthwindService.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\obj\Debug\RealNorthwindService.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\obj\Debug\RealNorthwindService.csprojResolveAssemblyReference.cache
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindEntities.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindLogic.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindEntities.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindLogic.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindDAL.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindDAL.pdb

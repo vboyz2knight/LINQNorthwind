@@ -1,0 +1,9 @@
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindLogic.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindDAL.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindEntities.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindDAL.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\bin\Debug\LINQNorthwindEntities.pdb
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.csprojResolveAssemblyReference.cache
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.dll
+C:\Users\SilverKissXO\Documents\Visual Studio 2010\Projects\MyWeb\LINQNorthwind\LINQNorthwindLogic\obj\Debug\LINQNorthwindLogic.pdb
